@@ -1,0 +1,4 @@
+port: 8083
+postgres: postgres://postgres:dev@postgres:5432/postgres?sslmode=disable
+kafkaAddr: localhost:9092
+kafkaTopic: topic-A
